@@ -1,8 +1,8 @@
 ### Olá !! Sou Sâmela Rocha 👋
 
 
-- 🔭 Hoje trabalho com infraestrutura de serviços
-- 🌱 Estudando Cybersegurança e Tensorflow
+- 🔭 Hoje trabalho com infraestrutura de serviços, Inteligência Artificial e MLOps
+- 🌱 Estudando Cybersegurança e Cultura MLOps
 - 😄 Pronouns: ela/dela
 
 <div align="center">
