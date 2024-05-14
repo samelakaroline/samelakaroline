@@ -11,7 +11,6 @@
 </div>
 	
 <div style="display: inline_block"><br>
-  <img align="center" alt="sam-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="sam-docker" height="30" width="40" src="https://www.donaldonsoftware.com/images/docker.png">
   <img align="center" alt="sam-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="sam-postgresql" height="30" width="40" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
