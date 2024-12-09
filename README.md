@@ -1,8 +1,45 @@
-# Sâmela Rocha
 
-- 🔭 Hoje trabalho com infraestrutura de serviços, Inteligência Artificial e MLOps
-- 🌱 Estudando Cybersegurança e Cultura MLOps
-- 😄 Pronouns: ela/dela
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Sâmela</h1></summary>
+  </ul>
+</div>
+
+
+- 🔭 I’m currently working with service inf+rastructure focused on Data Engineering, Artificial Intelligence applications and MLOps.
+- 🌱 I’m currently learning Cybersecurity an MLOps culture
+- 💬 I'm currently studying how to apply smart techniques in information security
+
+  <!--- stats (start) -->
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+<img align="center" src="https://github-readme-stats-topaz-ten-12.vercel.app/api?username=samelakaroline&theme=dark&show_icons=true&count_private=true&v=1" />
+  <br></br>
+</td>
+<td width="50%" align="center">
+
+<img align="center" src="https://github-readme-stats-topaz-ten-12.vercel.app/api/top-langs/?username=samelakaroline&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&count_private=true&v=1" />
+  
+  </td>
+</tr>
+</table>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,ansible,arduino,css,discord,docker,debian,django,elasticsearch,fastapi,flask,postgres,angular,figma,redis,github,githubactions,kali,jenkins,terraform,html,js,linux,md,nginx,mongodb,mysql,postman,py,react,ts,vscode,kubernetes&perline=14" />
+  </a>
 
 ## Redes Sociais
 
@@ -24,23 +61,6 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## Git Stats
-
-
-<div align="center">
-  <a href="https://github.com/samelakaroline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samelakaroline&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-</div>
-
-## Principais Linguagens
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samelakaroline&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)  
-
-</div>
-
 
 <!-- 	
   <summary><b>⚡ My best projects</b></summary>
